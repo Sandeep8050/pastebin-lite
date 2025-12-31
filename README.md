@@ -164,3 +164,14 @@ TTL (Time-To-Live): Redis supports native expiration. We use the EXPIRE command 
 
 Atomic Counters: We use Redis atomic increments (INCR) to handle the "Max Views" feature accurately, ensuring a paste is deleted exactly when the view limit is reached.
 
+** Vercel Deployment **
+<img width="1920" height="1080" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/5b81d746-ef17-4d40-b52f-58581d559403" />
+
+**
+<img width="1920" height="1080" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/bd4faf5d-6cba-4863-bf43-2cca19d74084" />
+
+
+<img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/779caa98-c49b-47f1-aa1e-9d175f47a7c7" />
+
+
+
